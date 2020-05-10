@@ -1,0 +1,3 @@
+python-lzo
+git+https://github.com/csarron/mdict-analysis.git
+git+https://github.com/otakutyrant/writemdict.git@tyrant
