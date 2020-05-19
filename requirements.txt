@@ -1,3 +1,2 @@
-python-lzo
 git+https://github.com/otakutyrant/mdict-analysis.git@tyrant
 git+https://github.com/otakutyrant/writemdict.git@tyrant
